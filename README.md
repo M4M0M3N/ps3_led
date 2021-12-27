@@ -14,7 +14,9 @@ Oltre a questo, i pin adressabili hanno un verso. Questo puo' essere riconosciut
 ## Utilizzo
 Alimentare il wemos.
 Controllare se si collega.
-## Video collegamento
+Se i led eseguono questa sequenza, la board si e' connessa al wifi
+![Collegato](https://github.com/M4M0M3N/ps3_led/blob/main/img/ezgif.com-gif-maker.gif?raw=true)
+
 Una volta collegato, scrivere su un qualsiasi browser l'indirizzo ip del wemos. 192.168.1.32 per me.
 Per trovarlo potete:
 - cercare nelle impostazioni del modem (in questo caso e' piu' comodo impostargli un indirizzo ip fisso.)
@@ -23,7 +25,7 @@ Per trovarlo potete:
 Una volta nella pagina principale, potete cambiare i colori ai led a vostro piacimento!
 
 ## Screen del sito
-foto1
-foto2
-foto3
-foto ps3
+![sitp_p](https://github.com/M4M0M3N/ps3_led/blob/main/img/p.png?raw=true)
+![sito_s](https://github.com/M4M0M3N/ps3_led/blob/main/img/w.png?raw=true)
+![sito_3](https://github.com/M4M0M3N/ps3_led/blob/main/img/3.png?raw=true)
+![ps3 impostato](https://github.com/M4M0M3N/ps3_led/blob/main/img/ps3_sito.jpg?raw=true)

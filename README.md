@@ -1,4 +1,3 @@
-# Dillinger
 ## _Progetto con wemos d1 mini per controllare tramite pagina internet dei led rgb_
 
 ## Requisiti
@@ -10,6 +9,7 @@
 ## Circuito
 Bisogna fare molta attenzione al pin usato sulla scheda. Infatti questo non ha lo stesso numero identificativo usato nell'ide
 Oltre a questo, i pin adressabili hanno un verso. Questo puo' essere riconosciuto dalla freccia su di essa.
+![Circuito](https://github.com/M4M0M3N/ps3_led/blob/main/img/Schema.png?raw=true)
 
 ## Utilizzo
 Alimentare il wemos.
@@ -26,6 +26,6 @@ Una volta nella pagina principale, potete cambiare i colori ai led a vostro piac
 
 ## Screen del sito
 ![sitp_p](https://github.com/M4M0M3N/ps3_led/blob/main/img/p.png?raw=true)
-![sito_s](https://github.com/M4M0M3N/ps3_led/blob/main/img/w.png?raw=true)
+![sito_s](https://github.com/M4M0M3N/ps3_led/blob/main/img/s.png?raw=true)
 ![sito_3](https://github.com/M4M0M3N/ps3_led/blob/main/img/3.png?raw=true)
 ![ps3 impostato](https://github.com/M4M0M3N/ps3_led/blob/main/img/ps3_sito.jpg?raw=true)

@@ -11,10 +11,10 @@
 Bisogna fare molta attenzione al pin usato sulla scheda. Infatti questo non ha lo stesso numero identificativo usato nell'ide
 Oltre a questo, i pin adressabili hanno un verso. Questo puo' essere riconosciuto dalla freccia su di essa.
 
-#Utilizzo
+## Utilizzo
 Alimentare il wemos.
 Controllare se si collega.
-##Video collegamento
+## Video collegamento
 Una volta collegato, scrivere su un qualsiasi browser l'indirizzo ip del wemos. 192.168.1.32 per me.
 Per trovarlo potete:
 - cercare nelle impostazioni del modem (in questo caso e' piu' comodo impostargli un indirizzo ip fisso.)
@@ -22,7 +22,7 @@ Per trovarlo potete:
 
 Una volta nella pagina principale, potete cambiare i colori ai led a vostro piacimento!
 
-#Scerrn del sito
+## Screen del sito
 foto1
 foto2
 foto3

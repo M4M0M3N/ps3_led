@@ -7,7 +7,11 @@
 /*Se si riscontrano colori sbagliati, provare ad accende uno dei tre colori {rosso, verde, blu}
  * e cambiare l'ordine*/
 #define NUM_LEDS 6       //Per questo progetto ho usato 6 led, 2 per ogni lettera
-#define DATA_PIN 2       //Collegati i led al pin digitale 2
+
+//ATTENZIONE
+#define DATA_PIN 2       //Collegati i led al pin digitale 4, nell'ide e il gpio 2
+//ATTENZIONE
+
 #define da 0
 #define fino 5
 //#define slow 500

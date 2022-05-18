@@ -1,3 +1,5 @@
+/*script by mamomen*/
+
 #include <ESP8266WiFi.h>
 #include <FastLED.h>
 #include <ESP8266HTTPClient.h>
